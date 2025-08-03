@@ -7,8 +7,7 @@ and various fault conditions (such as line-to-ground, line-to-line, or three-pha
 The objective is to enable rapid and accurate fault identification, which is crucial for 
 maintaining power grid stability and reliability. 
 
-Kaggle dataset link – https://www.kaggle.com/datasets/ziya07/power-system
-faults-dataset 
+Kaggle dataset link – https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset 
 
 Technology – Use of IBM cloud lite services is mandatory.
 
